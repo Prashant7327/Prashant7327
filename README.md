@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Prashant7327
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Prashant Kumar Pandey  
+🎓 BCA Final Year Student | Front-End Web Developer  
+🌐 HTML, CSS, JavaScript | Responsive Websites | 
 
-<!---
-Prashant7327/Prashant7327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love building clean, mobile-friendly websites and solving real-world problems using code. My goal is to become a full-stack developer and help people turn their ideas into fast, functional, and attractive web apps.
+
+🛠️ Tools & Technologies:  
+- HTML5, CSS3, JavaScript  
+- Git & GitHub  
+- VS Code, Netlify, Canva  
+- Learning React & Node.js
+
+🧪 Projects:
+- College Feedback System  
+- Daily Expense Tracker  
+- Portfolio Website
+
+📫 How to reach me:  
+Email – prashant.091224@gmail.com  
+Let’s connect and create something amazing! 🚀
